@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "inet.h": "c"
+    }
+}
